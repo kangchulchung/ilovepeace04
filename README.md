@@ -39,7 +39,7 @@
         <aside>
             <div id="namecard">
                 <img src="images/pf.jpg" alt="">
-                <h1>Kyunghee Ko</h1>    
+                <h1>Kangchul Chung</h1>    
                 <p>오늘은 남은 인생이 시작되는 첫째날</p>
             </div>
             <div id="detail">
