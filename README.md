@@ -50,7 +50,7 @@
                 <h2>SNS</h2>
                 <ul>                    
 					<li>
-						<a href="https://kangchulchung.github.io/ilovepeace04" >github1</a>
+						<a href="https://google.com" >github1</a>
 					</li>
 					<li>
 						<a href="https://github.com/kangchulchung/ilovepeace.git" target="_blank">github2</a>
